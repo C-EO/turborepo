@@ -386,6 +386,26 @@
       "normal"
     ]
   },
+  "Alkatra": {
+    "weights": [
+      "400",
+      "500",
+      "600",
+      "700",
+      "variable"
+    ],
+    "styles": [
+      "normal"
+    ],
+    "axes": [
+      {
+        "tag": "wght",
+        "min": 400,
+        "max": 700,
+        "defaultValue": 400
+      }
+    ]
+  },
   "Allan": {
     "weights": [
       "400",
@@ -1010,6 +1030,29 @@
       }
     ]
   },
+  "Anuphan": {
+    "weights": [
+      "100",
+      "200",
+      "300",
+      "400",
+      "500",
+      "600",
+      "700",
+      "variable"
+    ],
+    "styles": [
+      "normal"
+    ],
+    "axes": [
+      {
+        "tag": "wght",
+        "min": 100,
+        "max": 700,
+        "defaultValue": 400
+      }
+    ]
+  },
   "Anybody": {
     "weights": [
       "100",
@@ -1183,21 +1226,6 @@
         "max": 700,
         "defaultValue": 400
       }
-    ]
-  },
-  "Arima Madurai": {
-    "weights": [
-      "100",
-      "200",
-      "300",
-      "400",
-      "500",
-      "700",
-      "800",
-      "900"
-    ],
-    "styles": [
-      "normal"
     ]
   },
   "Arimo": {
@@ -3478,6 +3506,24 @@
     ],
     "axes": [
       {
+        "tag": "FLAR",
+        "min": 0,
+        "max": 100,
+        "defaultValue": 0
+      },
+      {
+        "tag": "VOLM",
+        "min": 0,
+        "max": 100,
+        "defaultValue": 0
+      },
+      {
+        "tag": "slnt",
+        "min": -12,
+        "max": 0,
+        "defaultValue": 0
+      },
+      {
         "tag": "wght",
         "min": 100,
         "max": 900,
@@ -3936,6 +3982,14 @@
     ]
   },
   "Dela Gothic One": {
+    "weights": [
+      "400"
+    ],
+    "styles": [
+      "normal"
+    ]
+  },
+  "Delicious Handrawn": {
     "weights": [
       "400"
     ],
@@ -5240,14 +5294,6 @@
       }
     ]
   },
-  "Fredoka One": {
-    "weights": [
-      "400"
-    ],
-    "styles": [
-      "normal"
-    ]
-  },
   "Freehand": {
     "weights": [
       "400"
@@ -5485,16 +5531,6 @@
         "max": 900,
         "defaultValue": 400
       }
-    ]
-  },
-  "Gentium Book Basic": {
-    "weights": [
-      "400",
-      "700"
-    ],
-    "styles": [
-      "normal",
-      "italic"
     ]
   },
   "Gentium Book Plus": {
@@ -7242,16 +7278,6 @@
       "italic"
     ]
   },
-  "Kantumruy": {
-    "weights": [
-      "300",
-      "400",
-      "700"
-    ],
-    "styles": [
-      "normal"
-    ]
-  },
   "Kantumruy Pro": {
     "weights": [
       "100",
@@ -7677,6 +7703,12 @@
       "normal"
     ],
     "axes": [
+      {
+        "tag": "YOPQ",
+        "min": 40,
+        "max": 300,
+        "defaultValue": 300
+      },
       {
         "tag": "wght",
         "min": 100,
@@ -9108,14 +9140,6 @@
         "max": 900,
         "defaultValue": 400
       }
-    ]
-  },
-  "Merienda One": {
-    "weights": [
-      "400"
-    ],
-    "styles": [
-      "normal"
     ]
   },
   "Merriweather": {
@@ -13931,10 +13955,23 @@
   },
   "Pontano Sans": {
     "weights": [
-      "400"
+      "300",
+      "400",
+      "500",
+      "600",
+      "700",
+      "variable"
     ],
     "styles": [
       "normal"
+    ],
+    "axes": [
+      {
+        "tag": "wght",
+        "min": 300,
+        "max": 700,
+        "defaultValue": 400
+      }
     ]
   },
   "Poor Story": {
@@ -15230,6 +15267,14 @@
       "normal"
     ]
   },
+  "Rubik Pixels": {
+    "weights": [
+      "400"
+    ],
+    "styles": [
+      "normal"
+    ]
+  },
   "Rubik Puddles": {
     "weights": [
       "400"
@@ -15646,6 +15691,29 @@
     ],
     "styles": [
       "normal"
+    ]
+  },
+  "Schibsted Grotesk": {
+    "weights": [
+      "400",
+      "500",
+      "600",
+      "700",
+      "800",
+      "900",
+      "variable"
+    ],
+    "styles": [
+      "normal",
+      "italic"
+    ],
+    "axes": [
+      {
+        "tag": "wght",
+        "min": 400,
+        "max": 900,
+        "defaultValue": 400
+      }
     ]
   },
   "Schoolbell": {
